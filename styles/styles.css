@@ -1,0 +1,84 @@
+/* Section 1: Navbar */
+#section-1 {
+  background-color: #28b04d;
+  font-family: 'Montserrat Alternates', Arial, Helvetica, sans-serif;
+}
+
+.navbar-brand {
+  color: greenyellow;
+}
+
+.navbar-brand:hover {
+  color: rgb(164, 238, 164);
+}
+
+.nav-link {
+  color: rgb(164, 238, 164);
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+  margin: 0 15px;
+  text-align: center;
+}
+
+.nav-link:hover {
+  color: greenyellow;
+}
+
+.go {
+  color: green;
+}
+
+#section-1 h2 {
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+}
+
+/* Section 2: Download Our App */
+#section-2 {
+  background-color: #28b04d;
+  color: greenyellow;
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px 0 100px 0;
+}
+
+.column-1 {
+  font-weight: bold;
+  padding: 130px 200px;
+}
+
+span {
+  font-family: 'Permanent Marker', sans-serif;
+}
+
+.download-button {
+  margin-left: 20px;
+}
+
+/* Section 3: Questions, Answers and Reviews */
+#section-3 {
+  background-color: #76ca8c;
+  font-family: 'Montserrat', sans-serif;
+  padding: 30px 0;
+  text-align: center;
+}
+
+h2,
+#section-3 h3 {
+  color: darkgreen;
+}
+
+.alert {
+  font-family: 'Ubuntu', sans-serif;
+  width: 500px;
+  margin-left: 37%;
+}
+
+h5 {
+  color: green;
+}
+
+.card {
+  margin: 0 30px 0 30px;
+}
+
+.btn-pencil {
+    line-height: 1.5;
+}
